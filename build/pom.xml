@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>oneassist</groupId>
  <artifactId>UAT</artifactId>
-  <version>002</version>
+  <version>${buildNumber}_${BUILD_NUMBER}</version>
   <properties>
     <maven.build.timestamp.format>yyMMdd</maven.build.timestamp.format>
     <buildNumber>${maven.build.timestamp}</buildNumber>
