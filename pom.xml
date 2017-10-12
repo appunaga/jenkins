@@ -4,7 +4,7 @@
   <groupId>com.mkyong</groupId>
   <artifactId>NumberGenerator</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>NumberGenerator</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -20,6 +20,7 @@
     <id>releases</id>
     <name>Release</name>
     <url>http://13.228.110.56:8081/nexus/content/repositories/releases</url>
+    
   </repository>
 </distributionManagement>
   <build>
