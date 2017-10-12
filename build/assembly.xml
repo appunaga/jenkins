@@ -7,7 +7,7 @@
      <fileSets>
         <fileSet>
   <directory>source</directory>
-  <filtered>true</filtered>
+  <filtered>false</filtered>
   <outputDirectory>/</outputDirectory>
       </fileSet>
      </fileSets>
